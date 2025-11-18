@@ -53,11 +53,6 @@ Permite alojar páginas estáticas, proyectos web, APIs locales y paneles web si
 
 ---
 
-<div align="center">🖼 (Aquí irá un banner PNG de tu herramienta)
-
-</div>
----
-
 📦 Instalación
 
 Ejecuta los siguientes comandos en Termux:
