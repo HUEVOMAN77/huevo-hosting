@@ -65,11 +65,13 @@ Ejecuta los siguientes comandos en Termux:
 pkg update -y && pkg upgrade -y
 pkg install git -y
 
-git clone https://github.com/HUEVOMAN77/huevo_hosting.git
+git clone https://github.com/HUEVOMAN77/huevo-hosting.git
 
-cd huevo_hosting
+cd huevo-hosting
 
 chmod +x huevo-hosting.sh
+
+./huevo-hosting.sh
 
 
 ---
